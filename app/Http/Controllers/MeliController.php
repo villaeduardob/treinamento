@@ -5,7 +5,7 @@ class MeliController extends Controller {
 
     public function enviaSQS()
     {
-        dd('funcionando');
+        dd('funcionando BLAUBLAB');
     }
 
 }
